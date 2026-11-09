@@ -46,3 +46,13 @@ Open queries.sql in postgres and execute queries.
 ### Insight: Repeat Purchase Frequency Deficit
 -  Only a small fraction of total registered customers (less than 15%) have placed more than 5 orders, that is a total of 46/150 customers with more than five orders only. This indicates that while customer acquisition brings in new buyers, long-term retention remains low, forcing the business to rely continuously on costly new-customer marketing. 
 - My recommendation is to launch an automated post-purchase email campaign offering refill reminders, accessory recommendations, or a multi-order loyalty reward to convert one-time buyers into repeat orderers.
+
+## Conclusion & Business Impact
+
+The SQL data analysis of **Duka Smart Electronics** provides clear, data-driven direction for strategic growth:
+
+ **Protect Core Revenue Engines**: Mobile Phones and Computing represent over 56% of total company sales, with Nairobi acting as the primary geographic market. Maintaining inventory health in these top categories and key urban regions is vital to sustaining baseline profitability.
+ **Capitalize on Upselling & Bundling**: The significant revenue gap between high-ticket devices and high-margin accessories highlights a key growth area. Introducing checkout bundling strategies can immediately boost basket sizes and overall profit margins.
+**Optimize Operations to Reduce Cancellations**: With an 11% order cancellation rate, improving stock accuracy and setting clear shipping expectations prior to payment will recover lost revenue and strengthen customer trust.
+
+By aligning inventory management, targeted geographic marketing and post-purchase loyalty programs, Duka Smart Electronics can reduce revenue volatility and drive long-term customer lifetime value.
